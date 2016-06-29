@@ -1,7 +1,7 @@
 {
   "room": "Nečum p*čo hledám kočku",
   "author": "Lemon",
-  "icon": "http://i.imgur.com/92tLgta.png",
+  "icon": "http://i.imgur.com/5d4GmuZ.png",
   "css": null,
   "rules": {
     "allowAutorespond": false,
@@ -28,7 +28,7 @@
   },
   "images": {
     "background": "http://i.imgur.com/IaRSkYZ.jpg", 
-    "playback": null,
+    "playback": "http://i.imgur.com/cWolYuU.png",
     "admin": null,
     "ambassador": null,
     "host": null,
