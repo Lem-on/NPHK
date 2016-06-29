@@ -2,7 +2,7 @@
   "room": "Nečum p*čo hledám kočku",
   "author": "Lemon",
   "icon": "http://i.imgur.com/5d4GmuZ.png",
-  "css": null,
+  "css": "https://raw.githubusercontent.com/Lem-on/NPHK/master/style.css",
   "rules": {
     "allowAutorespond": false,
     "allowAutowoot": true,
